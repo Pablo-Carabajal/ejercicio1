@@ -46,6 +46,7 @@ public class ejercicio11 {
              sumac+=matriz[i][j];   
             }
            System.out.println("La suma de la columna ["+j+"] es: "+sumac);
+           System.out.println("hola mundo");
         }
     }
 }
